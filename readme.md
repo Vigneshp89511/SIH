@@ -49,7 +49,7 @@ A decentralized agricultural supply chain platform built with Blockchain technol
 - **Jest** - Testing framework
 
 ## 📁 Project Structure
-agri-supply-chain/
+<pre>agri-supply-chain/
 ├── client/ # React frontend
 │ ├── public/
 │ ├── src/
@@ -72,7 +72,7 @@ agri-supply-chain/
 │ └── artifacts/ # Compiled contracts
 ├── docs/ # Documentation
 └── deployments/ # Deployment configurations
-
+</pre>
 
 ## 🚀 Quick Start
 
